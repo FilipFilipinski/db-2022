@@ -1,0 +1,1 @@
+alter table uservillas add constraint v_unique unique (villaid);

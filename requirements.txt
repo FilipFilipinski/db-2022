@@ -1,0 +1,5 @@
+asyncpg
+asyncache
+cachetools
+
+Faker
